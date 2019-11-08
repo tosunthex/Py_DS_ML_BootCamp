@@ -1,1 +1,2 @@
-# Py_DS_ML_BootCamp
+# Udemy Python for Data Science and Machine Learning Bootcamp project repo
+
